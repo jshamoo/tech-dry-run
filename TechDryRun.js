@@ -1,8 +1,5 @@
 //Tech Dry Run
 
-var hrr18 = {
-  name: 'Keeley Nakamoto'
+var hrr41 = {
+  name: 'Jenny Shamoo'
 }
-
-
-
